@@ -17,7 +17,8 @@ public class Test {
             if(s.equals("e")||s.equals("E"))
                 break;
             else
-                System.out.println(s.toUpperCase());
+                System.out.println(s.toUpperCase());//Ìí¼Ó×¢ÊÍ
+            System.out.println(" ");
         }
     }
 }
