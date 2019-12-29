@@ -18,7 +18,6 @@ public class Test {
                 break;
             else
                 System.out.println(s.toUpperCase());//Ìí¼Ó×¢ÊÍ
-            System.out.println(" ");
         }
     }
 }
